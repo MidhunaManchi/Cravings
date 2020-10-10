@@ -1,0 +1,124 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "SmoothiesTitle" : "Strawberry + Chacolate",
+            "SmoothiesName": "Oat Bowl",
+            "SmoothiesImage": "almond.jpg",
+            "Description": "Tasty and Healthy",
+            "Ingredients":"Strawberry, Mango and Chacolate",
+            "Calories":"350"
+
+        },
+        {
+            "id" : 2,
+            "SmoothiesTitle" : "Strawberry + Chacolate",
+            "SmoothiesName": "Oat Bowl",
+            "SmoothiesImage": "Rainbow.jpg",
+            "Description": "Tasty and Healthy",
+            "Ingredients":"Strawberry, Mango and Chacolate",
+            "Calories":"350"
+
+        },
+        {
+            "id": 3,
+            "SmoothiesTitle" : "Strawberry + Chacolate",
+            "SmoothiesName": "Oat Bowl",
+            "SmoothiesImage": "strawberrydrink.jpg",
+            "Description": "Tasty and Healthy",
+            "Ingredients":"Strawberry, Mango and Chacolate",
+            "Calories":"350"
+
+          },
+          {
+              "id": 4,
+              "SmoothiesTitle" : "Strawberry + Chacolate",
+              "SmoothiesName": "Oat Bowl",
+              "SmoothiesImage": "OIP.jpg",
+              "Description": "Tasty and Healthy",
+              "Ingredients":"Strawberry, Mango and Chacolate",
+              "Calories":"350"
+
+            },
+              {
+                        "id": 5,
+                        "SmoothiesTitle" : "Strawberry + Chacolate",
+                        "SmoothiesName": "Oat Bowl",
+                        "SmoothiesImage": "OIP.jpg",
+                        "Description": "Tasty and Healthy",
+                        "Ingredients":"Strawberry, Mango and Chacolate",
+                        "Calories":"350"
+
+                      },
+                      {
+                                "id": 6,
+                                "SmoothiesTitle" : "Strawberry + Chacolate",
+                                "SmoothiesName": "Oat Bowl",
+                                "SmoothiesImage": "OIP.jpg",
+                                "Description": "Tasty and Healthy",
+                                "Ingredients":"Strawberry, Mango and Chacolate",
+                                "Calories":"350"
+
+                              },
+                              {
+                                        "id": 7,
+                                        "SmoothiesTitle" : "Strawberry + Chacolate",
+                                        "SmoothiesName": "Oat Bowl",
+                                        "SmoothiesImage": "OIP.jpg",
+                                        "Description": "Tasty and Healthy",
+                                        "Ingredients":"Strawberry, Mango and Chacolate",
+                                        "Calories":"350"
+
+                                      },
+                                      {
+                                                "id": 8,
+                                                "SmoothiesTitle" : "Strawberry + Chacolate",
+                                                "SmoothiesName": "Oat Bowl",
+                                                "SmoothiesImage": "OIP.jpg",
+                                                "Description": "Tasty and Healthy",
+                                                "Ingredients":"Strawberry, Mango and Chacolate",
+                                                "Calories":"350"
+
+                                              },
+                                              {
+                                                        "id": 9,
+                                                        "SmoothiesTitle" : "Strawberry + Chacolate",
+                                                        "SmoothiesName": "Oat Bowl",
+                                                        "SmoothiesImage": "OIP.jpg",
+                                                        "Description": "Tasty and Healthy",
+                                                        "Ingredients":"Strawberry, Mango and Chacolate",
+                                                        "Calories":"350"
+
+                                                      },
+                                                      {
+                                                                "id": 10,
+                                                                "SmoothiesTitle" : "Strawberry + Chacolate",
+                                                                "SmoothiesName": "Oat Bowl",
+                                                                "SmoothiesImage": "OIP.jpg",
+                                                                "Description": "Tasty and Healthy",
+                                                                "Ingredients":"Strawberry, Mango and Chacolate",
+                                                                "Calories":"350"
+
+                                                              },
+                                                              {
+                                                                        "id": 11,
+                                                                        "SmoothiesTitle" : "Strawberry + Chacolate",
+                                                                        "SmoothiesName": "Oat Bowl",
+                                                                        "SmoothiesImage": "OIP.jpg",
+                                                                        "Description": "Tasty and Healthy",
+                                                                        "Ingredients":"Strawberry, Mango and Chacolate",
+                                                                        "Calories":"350"
+
+                                                                      },
+                                                                      {
+                                                                                "id": 12,
+                                                                                "SmoothiesTitle" : "Strawberry + Chacolate",
+                                                                                "SmoothiesName": "Oat Bowl",
+                                                                                "SmoothiesImage": "OIP.jpg",
+                                                                                "Description": "Tasty and Healthy",
+                                                                                "Ingredients":"Strawberry, Mango and Chacolate",
+                                                                                "Calories":"350"
+
+                                                                              }
+    ]
+}
